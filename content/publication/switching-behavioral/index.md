@@ -1,20 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Switching-State Dynamical Modeling of Daily Behavioral Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Shuai Huang
+- Shupeng Gui
+- Cao Xiao
+- Yu Cheng
+- Ji Liu
+- Xiaoning Qian
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2018-02-027T00:00:00Z"
+doi: "10.1007/s41666-018-0017-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Emerging wearable and environmental sensor technologies provide health professionals with unprecedented capacity to continuously collect human behavioral data for health monitoring and management. This enables new solutions to mitigate globally emerging health problems such as obesity. With such outburst of dynamic sensor data, it is critical that appropriate mathematical models and computational methods are developed to translate the collected data into accurate characterization of the underlying health dynamics, enabling more reliable personalized monitoring, prediction, and intervention of health status changes. In addition to addressing common analytic challenges in analyzing sensor behavioral data, such as missing values and outliers, we focus on modeling heterogeneous dynamics to better capture health status changes under different conditions, which may lead to more effective state-dependent intervention strategies. We implement switching-state dynamic system models with different complexity levels on real-world daily behavioral data. Evaluation experiments of these models are conducted to demonstrate the importance of modeling the dynamic heterogeneity, as well as simultaneously conducting missing value imputation and outlier detection in achieving interpretable health dynamic models with better prediction of health status changes.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'assets\pdf\Switching_State_Dynamical_Modeling_of_Daily_Behavioral_Data.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
