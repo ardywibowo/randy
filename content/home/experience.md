@@ -25,7 +25,7 @@ experience:
   - title: Graduate Researcher
     company: Texas A&M University
     company_url: ''
-    company_logo: org-x
+    company_logo: tamu
     location: College Station, Texas
     date_start: '2017-09-01'
     date_end: ''
@@ -48,7 +48,7 @@ experience:
   - title: Research Scientist
     company: University of Washington
     company_url: ''
-    company_logo: org-x
+    company_logo: uw
     location: Seattle, Washington
     date_start: '2018-05-14'
     date_end: '2018-09-14'
