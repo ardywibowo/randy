@@ -39,11 +39,7 @@ email: "randyardywibowo@tamu.edu"
 superuser: true
 highlight_name: false
 ---
-I am a 1st year PhD student in the Biomedical & Genomic Signal Processing (GSP) Lab in Texas A&M University’s Electrical and Computer Engineering Department. I am working with Professor Xiaoning Qian. My current interests are in time series data analysis, prediction, control, and intervention using graphical models.
-
-
-
-In time series modeling, I aim to develop interpretable models through structure learning/temporal clustering. I am interested in modeling dynamic systems more precisely through non-Markovian transition dynamics. In control and intervention, I aim to develop more personalized and reliable health intervention strategies through behavioral modeling by borrowing ideas from game theory and robust optimization.
+I am a PhD candidate in the Biomedical & Genomic Signal Processing (GSP) Lab in Texas A&M University’s Electrical and Computer Engineering Department, with Professor Xiaoning Qian as my advisor. My current interests are in uncertainty quantification in machine learning, with applications to time-series prediction, computer vision, energy efficient ML, anomaly detection, deep model compression, and healthcare.
 
 Awesome posts are tagged awesome. Stay tuned :).
 
