@@ -19,9 +19,7 @@ authors:
   - Xiaoning Qian
 author_notes: []
 publication: In Journal of Healthcare Informatics Research
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In JHIR
