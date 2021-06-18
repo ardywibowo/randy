@@ -19,7 +19,3 @@ content:
 design:
   view: 4
 ---
-
-{{% callout note %}}
-[Filter publications](./publication/).
-{{% /callout %}}

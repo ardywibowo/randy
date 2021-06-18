@@ -9,7 +9,7 @@ We developed a robot that automatically finds lights in a building using a camer
 """
 
 [header]
-image = "img/headers/light-audits.png"
+image = "light-audits.png"
 caption = "Left: Building mapping and lighting audit result. Right: Sensor Configuration."
 
 +++

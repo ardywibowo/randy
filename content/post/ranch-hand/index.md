@@ -9,7 +9,7 @@ Final senior design project sponsored by Texas Instruments. I created a web app 
 """
 
 [header]
-image = "img/headers/ranch-hand.png"
+image = "ranch-hand.png"
 caption = "Ranch Hand webapp map interface"
 
 +++
