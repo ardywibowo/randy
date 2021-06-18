@@ -35,7 +35,7 @@ education:
     - course: B.Sc. in Electrical Engineering
       institution: Texas A&M University
       year: 2017
-email: ""
+email: "randyardywibowo@tamu.edu"
 superuser: true
 highlight_name: false
 ---
