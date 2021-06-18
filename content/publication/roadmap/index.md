@@ -33,7 +33,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2019-10-1T00:00:00.000Z
+date: 2019-10-01T00:00:00.000Z
 publishDate: 2017-01-01T00:00:00.000Z
 url_dataset: ""
 url_project: ""
