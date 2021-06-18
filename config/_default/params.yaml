@@ -34,7 +34,7 @@ coordinates:
   longitude: '-96.3389'
 directions: 
 office_hours:
-  - 'Weekdays 10:00 to 13:00'
+  - 'Weekdays 10:00 to 13:00 CDT'
 contact_links:
   - icon: twitter
     icon_pack: fab

@@ -29,7 +29,7 @@ experience:
     location: College Station, Texas
     date_start: '2017-09-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Uncertainty quantification for outlier detection, robust prediction, adaptive monitoring, model compression, and continual learning.
 
   - title: Intern
     company: Qualcomm
@@ -38,12 +38,7 @@ experience:
     location: San Diego, California (remote)
     date_start: '2020-05-09'
     date_end: '2020-08-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Dynamic deep learning model compression.
 
   - title: Research Scientist
     company: University of Washington
@@ -52,7 +47,7 @@ experience:
     location: Seattle, Washington
     date_start: '2018-05-14'
     date_end: '2018-09-14'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Computer vision for skin disease classification and segmentation.
 
 design:
   columns: '2'
