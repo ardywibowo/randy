@@ -39,8 +39,8 @@ email: "randyardywibowo@tamu.edu"
 superuser: true
 highlight_name: false
 ---
-I am a PhD candidate in the Biomedical & Genomic Signal Processing (GSP) Lab in Texas A&M University’s Electrical and Computer Engineering Department, with Professor Xiaoning Qian as my advisor. My current interests are in uncertainty quantification in machine learning, with applications to time-series prediction, computer vision, energy efficient ML, anomaly detection, deep model compression, and healthcare.
+I am a PhD candidate in the Biomedical & Genomic Signal Processing (GSP) Lab in Texas A&M University’s Electrical and Computer Engineering Department, with Professor Xiaoning Qian as my advisor. 
 
-Awesome posts are tagged awesome. Stay tuned :).
+My current interests are in uncertainty quantification in machine learning, with applications to time-series prediction, computer vision, energy-efficient ML, anomaly detection, continual learning, deep model compression, and healthcare.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/randy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
