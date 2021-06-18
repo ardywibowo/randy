@@ -5,7 +5,7 @@ tags = ["awesome", "blog"]
 title = "Autonomous Lighting Audits"
 math = true
 summary = """
-We developed a robot that automatically finds lights in a building using a camera and identifies their types using a spectrometer. The robot localizes itself and creates a map of the building through Simultaneous Localization and Mapping (SLAM) using a distance sensor. Developed wih C++ using OpenCV on the ROS platform. [[Video](https://www.youtube.com/watch?v=1QDfSND6hYo)] [[Demo](https://www.youtube.com/watch?v=1x_Wfi2md0A)] [[Report](/papers/Spring2016ReportPlus.pdf)] [[Poster](/papers/AggiE_Challenge Poster.pdf)]  --- 
+We developed a robot that automatically finds lights in a building using a camera and identifies their types using a spectrometer. The robot localizes itself and creates a map of the building through Simultaneous Localization and Mapping (SLAM) using a distance sensor. Developed wih C++ using OpenCV on the ROS platform. [[Video](https://www.youtube.com/watch?v=1QDfSND6hYo)] [[Demo](https://www.youtube.com/watch?v=1x_Wfi2md0A)] [[Report](/papers/Spring2016ReportPlus.pdf)] [[Poster](/papers/AggiE_ChallengePoster.pdf)].
 """
 
 [header]
@@ -14,8 +14,7 @@ caption = "Left: Building mapping and lighting audit result. Right: Sensor Confi
 
 +++
 
-We developed a robot that automatically finds lights in a building using a camera and identifies their types using a spectrometer. The robot localizes itself and creates a map of the building through Simultaneous Localization and Mapping (SLAM) using a distance sensor. Developed wih C++ using OpenCV on the ROS platform. [ [Video](https://www.youtube.com/watch?v=1QDfSND6hYo) ] [ [Demo](https://www.youtube.com/watch?v=1x_Wfi2md0A) ] [ [Report](/papers/Spring2016ReportPlus.pdf) ] [ [Poster](/papers/AggiE_Challenge Poster.pdf) ] [ [Report](/papers/Spring2016ReportPlus.pdf) ] ---
-
+We developed a robot that automatically finds lights in a building using a camera and identifies their types using a spectrometer. The robot localizes itself and creates a map of the building through Simultaneous Localization and Mapping (SLAM) using a distance sensor. Developed wih C++ using OpenCV on the ROS platform. [[Video](https://www.youtube.com/watch?v=1QDfSND6hYo)] [[Demo](https://www.youtube.com/watch?v=1x_Wfi2md0A)] [[Report](/papers/Spring2016ReportPlus.pdf)] [[Poster](/papers/AggiE_ChallengePoster.pdf)].
 
 ### Team Composition
 
