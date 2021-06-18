@@ -17,11 +17,11 @@ publication_short: In ICML
 title: >-
   NADS: Neural Architecture Distribution Search for Uncertainty Awareness
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
-  caption: NADS Architecture
+  caption: Dynamic Feature Selection Architecture
   focal_point: ""
   preview_only: false
   filename: featured.png
