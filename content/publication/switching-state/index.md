@@ -32,7 +32,7 @@ date: 2018-03-30T00:00:00.000Z
 publishDate: 2017-01-01T00:00:00.000Z
 url_dataset: ""
 url_project: ""
-url_pdf: "assets/pdf/Switching_State_Dynamical_Modeling_of_Daily_Behavioral_Data.pdf"
+url_pdf: "pdf/Switching_State_Dynamical_Modeling_of_Daily_Behavioral_Data.pdf"
 url_slides: ""
 url_poster: ""
 url_code: ""
