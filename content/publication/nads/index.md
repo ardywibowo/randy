@@ -16,7 +16,7 @@ summary: ""
 publication_short: In ICML
 title: >-
   NADS: Neural Architecture Distribution Search for Uncertainty Awareness
-doi: 10.1007/s41666-018-0017-x
+doi: ""
 featured: false
 tags: []
 projects: []
@@ -24,7 +24,7 @@ image:
   caption: First order SAR model
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: featured.pdf
 date: 2020-11-21T00:00:00.000Z
 publishDate: 2017-01-01T00:00:00.000Z
 url_dataset: ""
