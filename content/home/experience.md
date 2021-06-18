@@ -34,7 +34,7 @@ experience:
   - title: Intern
     company: Qualcomm
     company_url: ''
-    company_logo: qualcomm.png
+    company_logo: qualcomm
     location: San Diego, California (remote)
     date_start: '2020-05-09'
     date_end: '2020-08-31'
