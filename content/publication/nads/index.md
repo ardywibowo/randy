@@ -17,7 +17,7 @@ publication_short: In ICML
 title: >-
   NADS: Neural Architecture Distribution Search for Uncertainty Awareness
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
