@@ -21,10 +21,10 @@ featured: false
 tags: []
 projects: []
 image:
-  caption: First order SAR model
+  caption: NADS Architecture
   focal_point: ""
   preview_only: false
-  filename: featured.pdf
+  filename: featured.png
 date: 2020-11-21T00:00:00.000Z
 publishDate: 2017-01-01T00:00:00.000Z
 url_dataset: ""
