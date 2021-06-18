@@ -15,7 +15,7 @@ publication: In International Conference on Artificial Intelligence and Statisti
 summary: ""
 publication_short: In AISTATS
 title: >-
-Learnable Bernoulli Dropout for Bayesian Deep Learning
+  Learnable Bernoulli Dropout for Bayesian Deep Learning
 doi: ""
 featured: false
 tags: []
