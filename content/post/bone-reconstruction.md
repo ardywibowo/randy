@@ -10,7 +10,7 @@ I constructed a 3D representation of bone structure from ultrasound images. The 
 """
 
 [header]
-image = "headers/bone-3d.png"
+image = "img/headers/bone-3d.png"
 caption = "Reconstructed 3D surface of axial crossection of forearm"
 
 +++

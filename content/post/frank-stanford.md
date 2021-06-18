@@ -9,7 +9,7 @@ I have recently developed a Content Management System (CMS) from scratch specifi
 """
 
 [header]
-image = "headers/frank-stanford.png"
+image = "img/headers/frank-stanford.png"
 caption = "Front page of Frank's website"
 
 +++

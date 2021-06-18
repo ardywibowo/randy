@@ -9,7 +9,7 @@ I helped my friend's startup company developing an app for news and donations fr
 """
 
 [header]
-image = "headers/masjid-pay.png"
+image = "img/headers/masjid-pay.png"
 caption = "MasjidPay Website landing page"
 
 +++

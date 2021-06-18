@@ -9,7 +9,7 @@ I recently helped my friend with testing Federico Perazzi's saliency filters. [[
 """
 
 [header]
-image = "headers/saliency-results.png"
+image = "img/headers/saliency-results.png"
 caption = "Saliency Filter Results using Federico Perazzi's method"
 
 +++
