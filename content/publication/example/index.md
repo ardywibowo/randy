@@ -7,7 +7,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -20,25 +20,25 @@ authors:
   - Ji Liu
   - Xiaoning Qian
 author_notes: []
-publication: In *Wowchemy Conference*
+publication: In Journal of Healthcare Informatics Research
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In JHIR
 url_source: ""
 url_video: ""
 title: Switching-State Dynamical Modeling of Daily Behavioral Data
 doi: 10.1007/s41666-018-0017-x
-featured: true
+featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: First order SAR model
   focal_point: ""
   preview_only: false
+  filename: featured.png
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
