@@ -21,7 +21,7 @@ featured: false
 tags: []
 projects: []
 image:
-  caption: Dynamic Feature Selection Architecture
+  caption: NADS Architecture
   focal_point: ""
   preview_only: false
   filename: featured.png
