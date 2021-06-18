@@ -6,9 +6,10 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Shahin Boluki
-  - Xinyu Gong
+  - Guang Zhao
   - Zhangyang Wang
+  - Bobak Mortazavi
+  - Shuai Huang
   - Xiaoning Qian
 author_notes: []
 publication: In The 22nd International Conference on Artificial Intelligence and Statistics
