@@ -2,12 +2,13 @@
 title: Randy Ardywibowo
 role: PhD Candidate in Electrical Engineering
 avatar_filename: avatar.jpg
-bio: My research interests include
+bio: I am interested in Uncertainty Quantification (UQ) for Machine Learning (ML) and it's various applications
 interests:
-  - Time-series
-  - Graphical Modeling
-  - Temporal Structure Learning
-  - Robust System Intervention/Control
+  - Uncertainty quantification
+  - Energy-efficient ML
+  - Anomaly detection
+  - Continual learning
+  - Deep model compression
 social:
   - icon: envelope
     icon_pack: fas
