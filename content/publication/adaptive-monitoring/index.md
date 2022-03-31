@@ -1,22 +1,7 @@
 ---
-abstract: 'In many machine learning tasks, input features with varying degrees
-  of predictive capability are usually acquired at some cost. For example, in
-  human activity recognition (HAR) and mobile health (mHealth) applications,
-  monitoring performance should be achieved with a low cost to gather different
-  sensory features, as maintaining sensors incur monetary, computation, and
-  energy cost. We propose an adaptive feature selection method that dynamically
-  selects features for prediction at any given time point. We formulate this
-  problem as an  minimization problem across time, and cast the combinatorial
-  optimization problem into a stochastic optimization formulation. We then
-  utilize a differentiable relaxation to make the problem amenable to
-  gradient-based optimization. Our evaluations on four activity recognition
-  datasets show that our method achieves a favorable trade-off between
-  performance and the number of features used. Moreover, the dynamically
-  selected features of our approach are shown to be interpretable and associated
-  with the actual activity types.slides: ""'
+abstract: 'In many machine learning tasks, input features with varying degrees of predictive capability are acquired at varying costs. In order to optimize the performance-cost trade-off, one would select features to observe a priori. However, given the changing context with previous observations, the subset of predictive features to select may change dynamically. Therefore, we face the challenging new problem of foresight dynamic selection (FDS): finding a dynamic and light-weight policy to decide which features to observe next, before actually observing them, for overall performance-cost trade-offs. To tackle FDS, this paper proposes a  Bayesian learning framework of Variational Foresight Dynamic Selection (VFDS). VFDS learns a policy that selects the next feature subset to observe, by optimizing a variational Bayesian objective that characterizes the trade-off between model performance and feature cost. At its core is an implicit variational distribution on binary gates that are dependent on previous observations, which will select the next subset of features to observe. We apply VFDS on the Human Activity Recognition (HAR) task where the performance-cost trade-off is critical in its practice. Extensive results demonstrate that VFDS selects different features under changing contexts, notably saving sensory costs while maintaining or improving the HAR accuracy. Moreover, the features that VFDS dynamically select are shown to be interpretable and associated with the different activity types. We will release the code.'
 url_pdf: https://openreview.net/pdf?id=mPmCP2CXc7p
-title: "Dynamic Feature Selection for Efficient and Interpretable Human Activity
-  Recognition "
+title: "VFDS: Variational Foresight Dynamic Selection in Bayesian Neural Networks"
 publication_types:
   - "3"
 authors:
@@ -29,12 +14,12 @@ authors:
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In Submission
+publication_short: AISTATS 2022
 url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: In Submission
+publication: AISTATS 2022
 featured: true
 tags: []
 projects: []
